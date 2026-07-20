@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-07-20T09:01:58Z",
+  "updatedAt": "2026-07-20T09:18:15Z",
   "problems": [
     {
       "id": "2b21a5057ac1",
@@ -10,39 +10,11 @@
       "hash": "2b21a5057ac106a2a5c9ad4b698439e81ce74a44c29ef8d58ddc9ff2f3bfc3d7"
     },
     {
-      "id": "33e4eb5495aa",
-      "lang": "en",
-      "kind": "short",
-      "path": "en/33e4eb5495aa.json",
-      "hash": "33e4eb5495aa994fb6f4b55717aa1b12c3ef0e4796c5662d8a514f0f8345d740"
-    },
-    {
       "id": "44433e582a8e",
       "lang": "en",
       "kind": "long",
       "path": "en/44433e582a8e.json",
       "hash": "44433e582a8e007205db28e420d37ea2619607ecc2e2dd470d1d9b6325c5d1fe"
-    },
-    {
-      "id": "9a0d1eaafe2e",
-      "lang": "en",
-      "kind": "short",
-      "path": "en/9a0d1eaafe2e.json",
-      "hash": "9a0d1eaafe2efd18aad04772e9d4ba5c9c18fb36232662fb804ea38e3486abca"
-    },
-    {
-      "id": "257e0c645042",
-      "lang": "es",
-      "kind": "short",
-      "path": "es/257e0c645042.json",
-      "hash": "257e0c645042fbe3855887550c025ecbf91ab932777e0dac4505922e7db58bbd"
-    },
-    {
-      "id": "26d4330a3299",
-      "lang": "es",
-      "kind": "short",
-      "path": "es/26d4330a3299.json",
-      "hash": "26d4330a3299d4d01d54add9d372ca0740913094976e6d63ff0539360deb4186"
     },
     {
       "id": "8e8c54006d36",
@@ -73,67 +45,11 @@
       "hash": "8f42116971c0bf72fd6af76fdd55e9859307e2d4e7a30768472ecf17d5bdaa20"
     },
     {
-      "id": "ba76035d5ae2",
-      "lang": "fr",
-      "kind": "short",
-      "path": "fr/ba76035d5ae2.json",
-      "hash": "ba76035d5ae22992a3b2f65772c2e25fc75f75d02f349cc7cba031ad9d6da4fc"
-    },
-    {
-      "id": "e45e6be49217",
-      "lang": "fr",
-      "kind": "short",
-      "path": "fr/e45e6be49217.json",
-      "hash": "e45e6be49217a766a14c055fab261ca456d1da9b09aa75f7103d0b124eaab73c"
-    },
-    {
-      "id": "129e343289fc",
-      "lang": "ja",
-      "kind": "short",
-      "path": "ja/129e343289fc.json",
-      "hash": "129e343289fc9679f8d340461521b57ea0693385aca42919c66c18ae1eff3cdf"
-    },
-    {
       "id": "15290be5edac",
       "lang": "ja",
       "kind": "long",
       "path": "ja/15290be5edac.json",
       "hash": "15290be5edac6e47f9af9929be4d28201b6b92deb52c6dde173026358ff1852a"
-    },
-    {
-      "id": "1df775859e6b",
-      "lang": "ja",
-      "kind": "short",
-      "path": "ja/1df775859e6b.json",
-      "hash": "1df775859e6bfb6e2b73642b285cb6fbac078d142e41773b32e379498e51fe0a"
-    },
-    {
-      "id": "28887a28963f",
-      "lang": "ja",
-      "kind": "short",
-      "path": "ja/28887a28963f.json",
-      "hash": "28887a28963fbdef74f9e240b1f2c45ff0c279892988f65475a6e6c7cf0d082e"
-    },
-    {
-      "id": "2ccefae0e902",
-      "lang": "ja",
-      "kind": "short",
-      "path": "ja/2ccefae0e902.json",
-      "hash": "2ccefae0e9020e05fab90117bdaf63298a543d7da0c6a032586be2c3ab405a4b"
-    },
-    {
-      "id": "375aa03f609e",
-      "lang": "ja",
-      "kind": "short",
-      "path": "ja/375aa03f609e.json",
-      "hash": "375aa03f609e01e0ca97122e588207a2d5f206d406ba404ce9124715685d280e"
-    },
-    {
-      "id": "65c7e7d03bc6",
-      "lang": "ja",
-      "kind": "short",
-      "path": "ja/65c7e7d03bc6.json",
-      "hash": "65c7e7d03bc648e9d04e1dfe634858f6a31d3eab3026941cb1ae256383782271"
     },
     {
       "id": "6d717cf2ee68",
@@ -157,13 +73,6 @@
       "hash": "871940458605696d441aad9c63c142e055bfa5ef8d7abe923af8df79df7782d4"
     },
     {
-      "id": "8b01a8112c98",
-      "lang": "ja",
-      "kind": "short",
-      "path": "ja/8b01a8112c98.json",
-      "hash": "8b01a8112c98c0d82016d35c51cd0a2958b4e4ddc1cc9f9c4e86dd6b3118b2b8"
-    },
-    {
       "id": "9342fc1ed2bb",
       "lang": "ja",
       "kind": "long",
@@ -185,20 +94,6 @@
       "hash": "9f834e0a0da9260c01789b2701058e48f95d736cac728349fe6ddf7fca3ae2b5"
     },
     {
-      "id": "b05f8824122b",
-      "lang": "ja",
-      "kind": "short",
-      "path": "ja/b05f8824122b.json",
-      "hash": "b05f8824122b400a2855a52964fdde2f216f67ba7676c0b9b4bbd0f585296266"
-    },
-    {
-      "id": "cda399f7491b",
-      "lang": "ja",
-      "kind": "short",
-      "path": "ja/cda399f7491b.json",
-      "hash": "cda399f7491b886146b6a13830d7a4265837b9e75e96609281dd8f797d4d1fc9"
-    },
-    {
       "id": "ce10ec98c732",
       "lang": "ja",
       "kind": "long",
@@ -206,46 +101,11 @@
       "hash": "ce10ec98c7322e0ae863f08d4c04ea5529643fbe4c3ed4b6e4805c3e2c4e3822"
     },
     {
-      "id": "d38f764d806a",
-      "lang": "ja",
-      "kind": "short",
-      "path": "ja/d38f764d806a.json",
-      "hash": "d38f764d806a7d6301f6debae2aef1f433a6a868a6c26ff6ce29508b500dfea8"
-    },
-    {
-      "id": "d42f32f2f5c6",
-      "lang": "ja",
-      "kind": "short",
-      "path": "ja/d42f32f2f5c6.json",
-      "hash": "d42f32f2f5c68a9f90afa0bb02e840945c7cbdb0ddb0c11155e5e32a81d6d547"
-    },
-    {
-      "id": "d79a3f5b0a18",
-      "lang": "ja",
-      "kind": "short",
-      "path": "ja/d79a3f5b0a18.json",
-      "hash": "d79a3f5b0a183ad193043655948c928ea98470804925666a600ca71d4ce178cd"
-    },
-    {
-      "id": "da6a9b6b49ba",
-      "lang": "ja",
-      "kind": "short",
-      "path": "ja/da6a9b6b49ba.json",
-      "hash": "da6a9b6b49ba7200f466cac743407ac115b52b88dced99e9d35b14002a32887c"
-    },
-    {
       "id": "dc5abe209656",
       "lang": "ja",
       "kind": "long",
       "path": "ja/dc5abe209656.json",
       "hash": "dc5abe20965631e44421fa96fe984bc33ecf4a4fd1580ff2948631d1c45dace9"
-    },
-    {
-      "id": "eb2cb2f0606c",
-      "lang": "ja",
-      "kind": "short",
-      "path": "ja/eb2cb2f0606c.json",
-      "hash": "eb2cb2f0606cd9b59ef60f3c03956ebd35e1d2b404c2e4643258202a9d7b6d93"
     },
     {
       "id": "fa7ef8002e4e",
@@ -260,20 +120,6 @@
       "kind": "long",
       "path": "ko/6d3b2d0eee80.json",
       "hash": "6d3b2d0eee8046ea7a787b9fdb169505ecebbe5fdd648cd8ba4bd6337fbcbce4"
-    },
-    {
-      "id": "b5b371937186",
-      "lang": "ko",
-      "kind": "short",
-      "path": "ko/b5b371937186.json",
-      "hash": "b5b371937186c5f60b8ecb539d4ece3f5beda666ed7e63d63363b77e4b3bc218"
-    },
-    {
-      "id": "b5fe9c18422d",
-      "lang": "ko",
-      "kind": "short",
-      "path": "ko/b5fe9c18422d.json",
-      "hash": "b5fe9c18422da1bf42ebbf173fa91f6fb45e238b71a4827f22787f6f01c5e25c"
     },
     {
       "id": "fa06caa53f13",
@@ -295,20 +141,6 @@
       "kind": "long",
       "path": "zh-CN/ce8750dcd7c6.json",
       "hash": "ce8750dcd7c62ee3e97841904cab50cfe03d56747094f4826d1b88dd45b72782"
-    },
-    {
-      "id": "d017e4b7b2df",
-      "lang": "zh-CN",
-      "kind": "short",
-      "path": "zh-CN/d017e4b7b2df.json",
-      "hash": "d017e4b7b2df9e7c023d317c3515b36cb5fb2cb6b4b483fb8e3989ba4b50d22c"
-    },
-    {
-      "id": "e5308412ff12",
-      "lang": "zh-CN",
-      "kind": "short",
-      "path": "zh-CN/e5308412ff12.json",
-      "hash": "e5308412ff12c533165a04c7add8b126490c5faf6ba8772ff42489fe85f33b1e"
     }
   ]
 }
