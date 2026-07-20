@@ -1,0 +1,174 @@
+{
+  "schemaVersion": 2,
+  "updatedAt": "2026-07-20T08:17:58Z",
+  "problems": [
+    {
+      "id": "2b21a5057ac1",
+      "lang": "en",
+      "kind": "long",
+      "path": "en/2b21a5057ac1.json",
+      "hash": "2b21a5057ac106a2a5c9ad4b698439e81ce74a44c29ef8d58ddc9ff2f3bfc3d7"
+    },
+    {
+      "id": "33e4eb5495aa",
+      "lang": "en",
+      "kind": "short",
+      "path": "en/33e4eb5495aa.json",
+      "hash": "33e4eb5495aa994fb6f4b55717aa1b12c3ef0e4796c5662d8a514f0f8345d740"
+    },
+    {
+      "id": "44433e582a8e",
+      "lang": "en",
+      "kind": "long",
+      "path": "en/44433e582a8e.json",
+      "hash": "44433e582a8e007205db28e420d37ea2619607ecc2e2dd470d1d9b6325c5d1fe"
+    },
+    {
+      "id": "9a0d1eaafe2e",
+      "lang": "en",
+      "kind": "short",
+      "path": "en/9a0d1eaafe2e.json",
+      "hash": "9a0d1eaafe2efd18aad04772e9d4ba5c9c18fb36232662fb804ea38e3486abca"
+    },
+    {
+      "id": "257e0c645042",
+      "lang": "es",
+      "kind": "short",
+      "path": "es/257e0c645042.json",
+      "hash": "257e0c645042fbe3855887550c025ecbf91ab932777e0dac4505922e7db58bbd"
+    },
+    {
+      "id": "26d4330a3299",
+      "lang": "es",
+      "kind": "short",
+      "path": "es/26d4330a3299.json",
+      "hash": "26d4330a3299d4d01d54add9d372ca0740913094976e6d63ff0539360deb4186"
+    },
+    {
+      "id": "8e8c54006d36",
+      "lang": "es",
+      "kind": "long",
+      "path": "es/8e8c54006d36.json",
+      "hash": "8e8c54006d363f240aaae728e653c877fddf963c803b8f61d01865255c46ddc0"
+    },
+    {
+      "id": "f7c6fc0be45d",
+      "lang": "es",
+      "kind": "long",
+      "path": "es/f7c6fc0be45d.json",
+      "hash": "f7c6fc0be45dfad27b95893befbc4bcbf7d6932a7ad47d37060825ca05812362"
+    },
+    {
+      "id": "45a75dc11dea",
+      "lang": "fr",
+      "kind": "long",
+      "path": "fr/45a75dc11dea.json",
+      "hash": "45a75dc11dea90a6e879356fef2d9e45e102f6e9d84a100ac3fbc83aed16bfab"
+    },
+    {
+      "id": "8f42116971c0",
+      "lang": "fr",
+      "kind": "long",
+      "path": "fr/8f42116971c0.json",
+      "hash": "8f42116971c0bf72fd6af76fdd55e9859307e2d4e7a30768472ecf17d5bdaa20"
+    },
+    {
+      "id": "ba76035d5ae2",
+      "lang": "fr",
+      "kind": "short",
+      "path": "fr/ba76035d5ae2.json",
+      "hash": "ba76035d5ae22992a3b2f65772c2e25fc75f75d02f349cc7cba031ad9d6da4fc"
+    },
+    {
+      "id": "e45e6be49217",
+      "lang": "fr",
+      "kind": "short",
+      "path": "fr/e45e6be49217.json",
+      "hash": "e45e6be49217a766a14c055fab261ca456d1da9b09aa75f7103d0b124eaab73c"
+    },
+    {
+      "id": "2ccefae0e902",
+      "lang": "ja",
+      "kind": "short",
+      "path": "ja/2ccefae0e902.json",
+      "hash": "2ccefae0e9020e05fab90117bdaf63298a543d7da0c6a032586be2c3ab405a4b"
+    },
+    {
+      "id": "871940458605",
+      "lang": "ja",
+      "kind": "long",
+      "path": "ja/871940458605.json",
+      "hash": "871940458605696d441aad9c63c142e055bfa5ef8d7abe923af8df79df7782d4"
+    },
+    {
+      "id": "cda399f7491b",
+      "lang": "ja",
+      "kind": "short",
+      "path": "ja/cda399f7491b.json",
+      "hash": "cda399f7491b886146b6a13830d7a4265837b9e75e96609281dd8f797d4d1fc9"
+    },
+    {
+      "id": "fa7ef8002e4e",
+      "lang": "ja",
+      "kind": "long",
+      "path": "ja/fa7ef8002e4e.json",
+      "hash": "fa7ef8002e4ed86a609c1a95edbffa6931c2199df598b8073e8698e2ad361cbb"
+    },
+    {
+      "id": "6d3b2d0eee80",
+      "lang": "ko",
+      "kind": "long",
+      "path": "ko/6d3b2d0eee80.json",
+      "hash": "6d3b2d0eee8046ea7a787b9fdb169505ecebbe5fdd648cd8ba4bd6337fbcbce4"
+    },
+    {
+      "id": "b5b371937186",
+      "lang": "ko",
+      "kind": "short",
+      "path": "ko/b5b371937186.json",
+      "hash": "b5b371937186c5f60b8ecb539d4ece3f5beda666ed7e63d63363b77e4b3bc218"
+    },
+    {
+      "id": "b5fe9c18422d",
+      "lang": "ko",
+      "kind": "short",
+      "path": "ko/b5fe9c18422d.json",
+      "hash": "b5fe9c18422da1bf42ebbf173fa91f6fb45e238b71a4827f22787f6f01c5e25c"
+    },
+    {
+      "id": "fa06caa53f13",
+      "lang": "ko",
+      "kind": "long",
+      "path": "ko/fa06caa53f13.json",
+      "hash": "fa06caa53f1344c562605e10f562f0818af34cd099c49cb77bd8f6402a9d16b2"
+    },
+    {
+      "id": "701003caaf58",
+      "lang": "zh-CN",
+      "kind": "long",
+      "path": "zh-CN/701003caaf58.json",
+      "hash": "701003caaf580a87c479db1bfe365bb2a03c670006dc6535086f15c224c3a486"
+    },
+    {
+      "id": "ce8750dcd7c6",
+      "lang": "zh-CN",
+      "kind": "long",
+      "path": "zh-CN/ce8750dcd7c6.json",
+      "hash": "ce8750dcd7c62ee3e97841904cab50cfe03d56747094f4826d1b88dd45b72782"
+    },
+    {
+      "id": "d017e4b7b2df",
+      "lang": "zh-CN",
+      "kind": "short",
+      "path": "zh-CN/d017e4b7b2df.json",
+      "hash": "d017e4b7b2df9e7c023d317c3515b36cb5fb2cb6b4b483fb8e3989ba4b50d22c"
+    },
+    {
+      "id": "e5308412ff12",
+      "lang": "zh-CN",
+      "kind": "short",
+      "path": "zh-CN/e5308412ff12.json",
+      "hash": "e5308412ff12c533165a04c7add8b126490c5faf6ba8772ff42489fe85f33b1e"
+    }
+  ]
+}

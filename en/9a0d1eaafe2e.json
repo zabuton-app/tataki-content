@@ -1,0 +1,23 @@
+{
+  "lang": "en",
+  "kind": "short",
+  "title": "Everyday Things",
+  "createdAt": "2026-07-20",
+  "sentences": [
+    {
+      "text": "He wrote a short letter to his brother."
+    },
+    {
+      "text": "The bakery opens before the sun rises."
+    },
+    {
+      "text": "Rain tapped gently against the window."
+    },
+    {
+      "text": "They shared a quiet meal by the river."
+    },
+    {
+      "text": "A small cat slept on the warm doorstep."
+    }
+  ]
+}
