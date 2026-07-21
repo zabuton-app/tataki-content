@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-07-21T09:00:21Z",
+  "updatedAt": "2026-07-21T09:27:37Z",
   "problems": [
     {
       "id": "04e7be9c6401",
@@ -374,11 +374,25 @@
       "hash": "76a560b21c47e79b67054acdaafc2f9d7ccaf825614eec63397b309ebd377461"
     },
     {
+      "id": "78ce45538895",
+      "lang": "ja",
+      "kind": "long",
+      "path": "ja/78ce45538895.json",
+      "hash": "78ce45538895fd591ff96f01ee49c11eb5811f6e2bd18e7b7cdb0241fea69495"
+    },
+    {
       "id": "797b39e8a453",
       "lang": "ja",
       "kind": "long",
       "path": "ja/797b39e8a453.json",
       "hash": "797b39e8a4537b6ed7d229c67f615494c4fefba54da6e5bb6ebd11b75e032bd8"
+    },
+    {
+      "id": "7e619e6a4c7c",
+      "lang": "ja",
+      "kind": "long",
+      "path": "ja/7e619e6a4c7c.json",
+      "hash": "7e619e6a4c7c96981ad89ed7fb713ab376da958bf2266650d7f92e24d631e16a"
     },
     {
       "id": "85be9859f393",
@@ -456,6 +470,13 @@
       "kind": "long",
       "path": "ja/dc5abe209656.json",
       "hash": "dc5abe20965631e44421fa96fe984bc33ecf4a4fd1580ff2948631d1c45dace9"
+    },
+    {
+      "id": "e0b55e415daf",
+      "lang": "ja",
+      "kind": "long",
+      "path": "ja/e0b55e415daf.json",
+      "hash": "e0b55e415daf6a8162a8ce101480d9ae1528c47e4190899cba288dca40d89392"
     },
     {
       "id": "e6f3b001b31f",
