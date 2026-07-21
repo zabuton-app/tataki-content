@@ -1,5 +1,48 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-07-21T21:30:22Z",
-  "problems": []
+  "updatedAt": "2026-07-21T21:34:38Z",
+  "problems": [
+    {
+      "id": "12e1300f5749",
+      "lang": "en",
+      "kind": "long",
+      "path": "en/12e1300f5749.json",
+      "hash": "12e1300f5749c3e53f313e90a522d4916eafa99a89c9e97c57b94d8581951f97"
+    },
+    {
+      "id": "13c31a62778c",
+      "lang": "en",
+      "kind": "long",
+      "path": "en/13c31a62778c.json",
+      "hash": "13c31a62778c8e9b7dda71f858df8c7d778d5aa3b2ac558c06b0455be232fab9"
+    },
+    {
+      "id": "355a78d7e1f3",
+      "lang": "en",
+      "kind": "long",
+      "path": "en/355a78d7e1f3.json",
+      "hash": "355a78d7e1f3c866d615548434c07adfdde5014a13f9a2d5c36ec4ecc6a83fdd"
+    },
+    {
+      "id": "2f6d79a6c2cd",
+      "lang": "ja",
+      "kind": "long",
+      "path": "ja/2f6d79a6c2cd.json",
+      "hash": "2f6d79a6c2cd1605ae6e2ea3dc3a50c579434e5086cd3d3876c992e2360405bb"
+    },
+    {
+      "id": "93e2317e5f87",
+      "lang": "ja",
+      "kind": "long",
+      "path": "ja/93e2317e5f87.json",
+      "hash": "93e2317e5f87e28753393c7368b95d6722719c8223d82e77efd957ea4becd2db"
+    },
+    {
+      "id": "979bf2ca58fc",
+      "lang": "ja",
+      "kind": "long",
+      "path": "ja/979bf2ca58fc.json",
+      "hash": "979bf2ca58fc9ab2490c7f72b335442eed1a1dee4c3eaff946e351be575f3040"
+    }
+  ]
 }
