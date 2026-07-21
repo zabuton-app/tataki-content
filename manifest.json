@@ -1,7 +1,21 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-07-20T10:45:11Z",
+  "updatedAt": "2026-07-21T04:40:37Z",
   "problems": [
+    {
+      "id": "04e7be9c6401",
+      "lang": "en",
+      "kind": "long",
+      "path": "en/04e7be9c6401.json",
+      "hash": "04e7be9c640197e5cfb3556ed7c993cfeb7c7ae20c2841c6354a4525fd6844f8"
+    },
+    {
+      "id": "2735a0308177",
+      "lang": "en",
+      "kind": "long",
+      "path": "en/2735a0308177.json",
+      "hash": "2735a03081774d93250c0200747f13638537186b2464a577987ea03feda9d96b"
+    },
     {
       "id": "2b21a5057ac1",
       "lang": "en",
@@ -17,6 +31,90 @@
       "hash": "44433e582a8e007205db28e420d37ea2619607ecc2e2dd470d1d9b6325c5d1fe"
     },
     {
+      "id": "4c72ba1482d2",
+      "lang": "en",
+      "kind": "long",
+      "path": "en/4c72ba1482d2.json",
+      "hash": "4c72ba1482d28b8e5056b96702ef16104f574460aa6f5e10e8bdbf4a9bedac6d"
+    },
+    {
+      "id": "80fecb729105",
+      "lang": "en",
+      "kind": "long",
+      "path": "en/80fecb729105.json",
+      "hash": "80fecb7291057e608a3d04921d8844d7df48db1ee463a530efe0814c2936c368"
+    },
+    {
+      "id": "883ed2fd1d83",
+      "lang": "en",
+      "kind": "long",
+      "path": "en/883ed2fd1d83.json",
+      "hash": "883ed2fd1d832c265ab7b7eaa5f7b1f2e870d2ccd71a4b5d591f6d329d0d101a"
+    },
+    {
+      "id": "9efef113839b",
+      "lang": "en",
+      "kind": "long",
+      "path": "en/9efef113839b.json",
+      "hash": "9efef113839b4d5a9f1f2d148b0126b272ce063de699f72f6b8bccc4609bf1d2"
+    },
+    {
+      "id": "d3e69042910d",
+      "lang": "en",
+      "kind": "long",
+      "path": "en/d3e69042910d.json",
+      "hash": "d3e69042910dc565b5f26af3d5180ff23bde685a021089b818150b0fa7223177"
+    },
+    {
+      "id": "dfc0694f636f",
+      "lang": "en",
+      "kind": "long",
+      "path": "en/dfc0694f636f.json",
+      "hash": "dfc0694f636fe00e364a17c68bb47966869a16092e4d2ac4b7045a3cb5007a47"
+    },
+    {
+      "id": "e5b5d74c9d70",
+      "lang": "en",
+      "kind": "long",
+      "path": "en/e5b5d74c9d70.json",
+      "hash": "e5b5d74c9d709a7c2cc45f7b39e541adbdc400b1be935ee684d7b10973434566"
+    },
+    {
+      "id": "f1fb305fa871",
+      "lang": "en",
+      "kind": "long",
+      "path": "en/f1fb305fa871.json",
+      "hash": "f1fb305fa8719c81263b69108ac9fb608d1bca7e14799232b2da6a619dc7a648"
+    },
+    {
+      "id": "2327fbf068dd",
+      "lang": "es",
+      "kind": "long",
+      "path": "es/2327fbf068dd.json",
+      "hash": "2327fbf068dd1adb9677441be928685eb82c51970c01f468aff72e7d978ae156"
+    },
+    {
+      "id": "759868404b57",
+      "lang": "es",
+      "kind": "long",
+      "path": "es/759868404b57.json",
+      "hash": "759868404b57e0faa0074bb7962180746b0cf1845f2476a3f4e8cfc3ff7fb66a"
+    },
+    {
+      "id": "79df53259303",
+      "lang": "es",
+      "kind": "long",
+      "path": "es/79df53259303.json",
+      "hash": "79df53259303334d8ce0feb4495f0f23042d2eeea93262a83b5ab30bc2bf5d07"
+    },
+    {
+      "id": "7f2259fb6c0c",
+      "lang": "es",
+      "kind": "long",
+      "path": "es/7f2259fb6c0c.json",
+      "hash": "7f2259fb6c0c347931b641b45d7342c80001a8f537e5d72784018f914a8d3df7"
+    },
+    {
       "id": "8e8c54006d36",
       "lang": "es",
       "kind": "long",
@@ -24,11 +122,53 @@
       "hash": "8e8c54006d363f240aaae728e653c877fddf963c803b8f61d01865255c46ddc0"
     },
     {
+      "id": "94c994c48ed3",
+      "lang": "es",
+      "kind": "long",
+      "path": "es/94c994c48ed3.json",
+      "hash": "94c994c48ed32c04428b7a43da7c54c89b63a026df0ef1a2147913001384d5d7"
+    },
+    {
+      "id": "b9fc66f6f512",
+      "lang": "es",
+      "kind": "long",
+      "path": "es/b9fc66f6f512.json",
+      "hash": "b9fc66f6f512dde0f31e5b4f92d402ac9b5abc274b4a095ac057fa51cba6d51c"
+    },
+    {
+      "id": "ce0135fffec4",
+      "lang": "es",
+      "kind": "long",
+      "path": "es/ce0135fffec4.json",
+      "hash": "ce0135fffec4bf9faf6d909fdaf9a7f71cb8ecb4650261fa2f42c837139677e8"
+    },
+    {
+      "id": "db693122082b",
+      "lang": "es",
+      "kind": "long",
+      "path": "es/db693122082b.json",
+      "hash": "db693122082b77e45b1cd2baa7b1e09ba2963741a73ad430002108ab5d70ad70"
+    },
+    {
+      "id": "e3cd0d3729f1",
+      "lang": "es",
+      "kind": "long",
+      "path": "es/e3cd0d3729f1.json",
+      "hash": "e3cd0d3729f1cd056544896503d6426ec0bb5a5d2ceab57459b9d89274f2f489"
+    },
+    {
       "id": "f7c6fc0be45d",
       "lang": "es",
       "kind": "long",
       "path": "es/f7c6fc0be45d.json",
       "hash": "f7c6fc0be45dfad27b95893befbc4bcbf7d6932a7ad47d37060825ca05812362"
+    },
+    {
+      "id": "fd544561aacb",
+      "lang": "es",
+      "kind": "long",
+      "path": "es/fd544561aacb.json",
+      "hash": "fd544561aacb9de021b2d93b980f2e4f132130bcd3caf10d38c99f7a53e26ea1"
     },
     {
       "id": "45a75dc11dea",
@@ -43,6 +183,13 @@
       "kind": "long",
       "path": "fr/8f42116971c0.json",
       "hash": "8f42116971c0bf72fd6af76fdd55e9859307e2d4e7a30768472ecf17d5bdaa20"
+    },
+    {
+      "id": "d0fb11d5c052",
+      "lang": "fr",
+      "kind": "long",
+      "path": "fr/d0fb11d5c052.json",
+      "hash": "d0fb11d5c052f3e010c8205baf8791efe5bc4d821fac247f7959388d2b4b5e30"
     },
     {
       "id": "1049f0f4e650",
