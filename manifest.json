@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-07-28T21:55:47Z",
+  "updatedAt": "2026-07-30T22:00:27Z",
   "problems": [
     {
       "id": "044032ece4a6",
@@ -78,6 +78,13 @@
       "kind": "long",
       "path": "en/429a16e7b848.json",
       "hash": "429a16e7b8484a493d4afbed4f6926cca138ca64632a1a1be9593d76346459bd"
+    },
+    {
+      "id": "42e13e6b910e",
+      "lang": "en",
+      "kind": "long",
+      "path": "en/42e13e6b910e.json",
+      "hash": "42e13e6b910e59e31fca5f95c9b2382c4cabf53ca2efbb19cfe26ba912069bc4"
     },
     {
       "id": "43c9be878435",
@@ -171,6 +178,27 @@
       "hash": "cdac265d5cbb9b175284e8fa0bbc545f8a405ed930578b0056c21ab112e49bd2"
     },
     {
+      "id": "df6c28a2522b",
+      "lang": "en",
+      "kind": "long",
+      "path": "en/df6c28a2522b.json",
+      "hash": "df6c28a2522bbdcf2743bd1bde2432555cad3ca3f00c79dc8c03cbcf0830ead5"
+    },
+    {
+      "id": "f3430bc3d7b6",
+      "lang": "en",
+      "kind": "long",
+      "path": "en/f3430bc3d7b6.json",
+      "hash": "f3430bc3d7b6e010ebd78e8b606e8ded5b3443c5e9c98a6f3bb6b33c44f9523c"
+    },
+    {
+      "id": "02e290ab1d4f",
+      "lang": "ja",
+      "kind": "long",
+      "path": "ja/02e290ab1d4f.json",
+      "hash": "02e290ab1d4ff0477bd8e669bbb797a30fc210d924b9dc122f88e7fa4c97bcf1"
+    },
+    {
       "id": "1f19bcf852dd",
       "lang": "ja",
       "kind": "long",
@@ -211,6 +239,13 @@
       "kind": "long",
       "path": "ja/42f7db5fb4ee.json",
       "hash": "42f7db5fb4ee55758d93c298a3ab905ede36d999ffa84ce325d724f341bc0a2a"
+    },
+    {
+      "id": "4c985a642c74",
+      "lang": "ja",
+      "kind": "long",
+      "path": "ja/4c985a642c74.json",
+      "hash": "4c985a642c749c03bf02cebdf9f41a5a35d1a32df1db70b5a2d63e927ab292f9"
     },
     {
       "id": "5e98ef055949",
@@ -302,6 +337,13 @@
       "kind": "long",
       "path": "ja/cd750b0feff4.json",
       "hash": "cd750b0feff4f2641b15b99b24986183bf03705ae7050f86acd2353ecc24a7f5"
+    },
+    {
+      "id": "cdac306a3379",
+      "lang": "ja",
+      "kind": "long",
+      "path": "ja/cdac306a3379.json",
+      "hash": "cdac306a337903c85f5d9801b92f4bd62ae1452a44e3de802e484790df7fd704"
     },
     {
       "id": "d7240bcfdb74",
